@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MoodlightApp</string>
+    <string name="app_name">Moodlight</string>
 
     <string name="action_rgbw">rgb+w</string>
     <string name="action_service">service</string>
